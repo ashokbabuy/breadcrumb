@@ -1,0 +1,19 @@
+.bx--breadcrumb-item-later {
+  content: "/";
+  color: #161616;
+  margin-left: 0.5rem;
+}
+.container {
+  display: inline-flex;
+}
+.bx-breadcrumb-after-cust {
+  padding-top: 0.45rem;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+}
+.someclass {
+  min-width: 100px;
+  display: flex;
+  white-space: nowrap;
+  margin-left: auto;
+}
